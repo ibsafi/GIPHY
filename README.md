@@ -6,7 +6,7 @@ This application is a practical example of using ajax component of JQuery, where
 
 ## Project Dependencies:
 
-This app doesn't require any of the dependencies.
+This app requires to include this CDN library: `jquery`.
 
 
 ## Basic Usage:
